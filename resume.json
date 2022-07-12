@@ -1,0 +1,109 @@
+{
+    "basics": {
+        "name": "Atharva Arya",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2029@iiitkota.ac.in",
+        "phone": "+919214117744",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronic & Communication Engineerig.",
+        "location": {
+            "address": "Udaipur",
+            "postalCode": "313002",
+            "city": "Udaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Atharva01arya",
+                "url": "https://www.github.com/Atharva01arya"
+            },
+            {
+                "network": "linkedin",
+                "username": "Atharva Arya",
+                "url": "https://www.linkedin.com/in/atharva-arya-81a934229/"
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+       
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics & communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "essay,story writing",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                ""
+                
+            ]
+        }
+    ]
+}
